@@ -1,7 +1,7 @@
 # EDA-On-AirBnB
 Project Title:  EDA On Airbnb Bookings Analysis.
 
-EDA :
+# EDA :
 
 •	Exploratory Data Analysis is used to analyze and investigate data sets and summarize the data.
 
@@ -9,7 +9,7 @@ EDA :
 
 •	It helps determine patterns, spot anomalies, test a hypothesis, or check assumptions.
 
-Data Description:
+# Data Description:
 
 •	Data analysis on millions of listings provided through Airbnb is a crucial factor for the company.
 
@@ -17,7 +17,7 @@ Data Description:
 
 •	In columns like name, host_name, last_review, reviews_per_month  have some null values.
 
-Data Processing:
+# Data Processing:
 
 •	Removing Duplicates
 
@@ -25,7 +25,7 @@ Data Processing:
 
 •	Outlier Detection
 
-Data Exploration and Visualization:
+# Data Exploration and Visualization:
 
 •	On column host_name: 
 
@@ -53,7 +53,7 @@ One destination (Williamsburg) had 8.02 % bookings
 
 •	Price V/S Nights and Average Price
 
-Conclusion:
+# Conclusion:
 
 •	Sonder(NYC),  Blueground, Michael and David are top 4 most spending customers. Their popular destinations are mainly Manhattan and Brooklyn.
 
